@@ -1,1 +1,11 @@
 Web application for Personal Task Tracker 
+
+Tech : React ,ASP.NET core API ,SQL server /SQ 
+Research : Learn basic of react and C# web APIs
+Setup : Scaffold ASP.NET core API 
+Backend : Build basic API for CRUD tasks
+Frontend : Create task list and add task forms in react 
+Connect frontend / backend : Fetch task ,add task from react using API 
+EDIT/Delete : Implement edit/delete functionality 
+Styling : improve UI using simple CSS/bootstrap 
+Testing and Documentation : Manual test,add README 
