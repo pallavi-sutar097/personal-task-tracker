@@ -4,3 +4,5 @@ A web application for tracking personal tasks, built with React frontend, .NET C
 # Contributors
 - Daniel Pinto
 - Pallavi Sutar
+- Rohit  
+- Khushi
