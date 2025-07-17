@@ -3,10 +3,3 @@ A web application for tracking personal tasks, built with React frontend, .NET C
 
 
 #pallavi sutar
-
-an joel fernandes
-
-
-
-,mnmbvnv
-
